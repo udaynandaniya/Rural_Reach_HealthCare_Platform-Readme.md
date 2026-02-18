@@ -51,9 +51,7 @@ Tech Stack
 Frontend: Next.js, Tailwind CSS, TypeScript  
 Backend: Next.js API routes, MongoDB Atlas  
 Authentication: NextAuth.js (role-based)  
-Notifications: Socket.IO (real-time alerts)  
 Emails: Nodemailer (weekly wellness tips)  
-Charts: Chart.js / Recharts  
 Deployment: Vercel
 
 ------------------------------------------------------------------
